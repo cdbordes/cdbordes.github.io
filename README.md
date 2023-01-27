@@ -1,2 +1,2 @@
 # cdbordes.github.io
-Bordes CV
+Bordes CV *Disponible en https://cdbordes.github.io/
