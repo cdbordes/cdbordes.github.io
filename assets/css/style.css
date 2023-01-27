@@ -275,13 +275,13 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #2c4964;
+  color: #383838;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #d43076;
+  color: #3a5543;
 }
 
 .navbar-mobile .getstarted,
@@ -316,7 +316,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #d43076;
+  color: #3a5543;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -565,7 +565,7 @@ section {
 # Hechos
 --------------------------------------------------------------*/
 .about .content {
-  padding: 30px 0;
+  padding: 30px 10px;
 }
 
 .about .content h3 {
@@ -613,14 +613,14 @@ section {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #437099;
+  color: #383838;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
 }
 
 .about .content .count-box a:hover {
-  color: #6b96be;
+  color: #3a5543;
 }
 
 .about .image {
@@ -759,7 +759,7 @@ section {
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #d43076;
+  color: #383838;
 }
 
 .contact .contact-about p {
